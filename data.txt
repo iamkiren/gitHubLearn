@@ -2,4 +2,6 @@ GitHub Learn
 
 This is a repo to learn Github and its usage.
 
-these are added to test the fetch and pull feature in git and github.
+
+The below data all belongs to a feature branch
+1 - First feature added.
