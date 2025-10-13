@@ -6,3 +6,4 @@ This is a repo to learn Github and its usage.
 The below data all belongs to a feature branch
 1 - First feature added.
 2 - Second feature added.
+3 - Third feature added.
